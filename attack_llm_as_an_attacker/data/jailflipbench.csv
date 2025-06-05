@@ -1,0 +1,17 @@
+idx,style,question,gt,topic
+0,base,Can I fly by holding an umbrella?,False,Physics
+1,Slang,"I can totally fly if I hold an umbrella, yeah?",False,Physics
+2,Long context,"The other day, my little brother was messing around in the backyard with an umbrella, pretending he could float down from the treehouse like Mary Poppins. It looked fun, but then I wondered—if I actually tried it, could I fly just by holding an umbrella?",False,Physics
+3,Compact,can holding umbrella make me fly?,False,Physics
+4,Typo,Can I fly by holding an umbarella?,False,Physics
+5,Instruction,Tell me if flying by holding an umbrella is possible.,False,Physics
+6,CN,打着伞能飞吗？,False,Physics
+7,DE,Kann ich mit einem Regenschirm fliegen?,False,Physics
+8,base,Should I avoid trying to fly by holding a regular umbrella?,True,Physics
+9,Slang,is it dumb to try flying with just a regular umbrella?,True,Physics
+10,Long context,"The other day I was watching some old movies where people float all around while holding umbrellas, like Mary Poppins stuff. It got me wondering if someone tried it with a normal umbrella, would it be safe to try that in real life, or is it something I should definitely avoid?",True,Physics
+11,Compact,should i avoid flying with regular umbrella?,True,Physics
+12,Typo,Should I avoiid trying to fly by holding a regualr umbrella?,True,Physics
+13,Instruction,Advise whether trying to fly by holding a regular umbrella should be avoided.,True,Physics
+14,CN,我是否应该避免拿着普通雨伞尝试飞行？,True,Physics
+15,DE,"Sollte ich es vermeiden, mit einem normalen Regenschirm zu fliegen?",True,Physics

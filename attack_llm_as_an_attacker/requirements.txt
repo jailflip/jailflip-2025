@@ -1,0 +1,11 @@
+fschat==0.2.23
+pandas
+seaborn
+matplotlib
+numpy
+datasets
+evaluate
+openai
+transformers
+ml_collections
+iopath
