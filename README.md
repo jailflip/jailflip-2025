@@ -1,9 +1,9 @@
-# From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures
+# Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official repository for the JailFlip attack:
-[From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures](https://jailflip.github.io/).
+[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://jailflip.github.io/).
 Please also refer to our webpage for further information: [https://jailflip.github.io/](https://jailflip.github.io/)
 
 <p align="center">

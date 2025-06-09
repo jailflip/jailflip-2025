@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official repository for the llm-as-an-attacker JailFlip attack, which is part of our work: 
-[From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures](https://jailflip.github.io/).  
+[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://jailflip.github.io/).  
 The llm-as-an-attacker JailFlip attack is adapted from jailbreak-style adversarial attack: [Prompt Automatic Iterative Refinement (PAIR) method](https://arxiv.org/abs/2310.08419).
 
 Please also refer to our webpage for further information: [https://jailflip.github.io/](https://jailflip.github.io/)
