@@ -3,11 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official repository for the adversarial suffix JailFlip attack, which is part of our work: 
-[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://jailflip.github.io/).  
-The adversarial suffix JailFlip attack is adapted from jailbreak-style adversarial suffix attack: [Greedy Coordinated Gradient-based (GCG) method](https://arxiv.org/abs/2307.15043).
-
-
-Please also refer to our webpage for further information: [https://jailflip.github.io/](https://jailflip.github.io/)
+[From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures](https://jailflip.github.io/).  
+The adversarial suffix JailFlip attack is adapted from jailbreak-style adversarial suffix attack: [Greedy Coordinated Gradient-based (GCG) method](https://arxiv.org/abs/2307.15043).  
+Please also refer to our [project webpage](https://jailflip.github.io/) for further information.
 
 ## Installation
 
@@ -67,7 +65,17 @@ bash eval_each_step_individual_llama31.sh
 
 ## Citation
 If you find our implementation and paper useful in your research, please consider citing our work.
-
+```bibtex
+@misc{zhou2025jailbreaksrevealingstealthierbroader,
+        title={Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures}, 
+        author={Yukai Zhou and Sibei Yang and Wenjie Wang},
+        year={2025},
+        eprint={2506.07402},
+        archivePrefix={arXiv},
+        primaryClass={cs.CR},
+        url={https://arxiv.org/abs/2506.07402}, 
+  }
+```
 In addition, please also consider citing the `GCG` work for offering valuable insight.
 
 ```

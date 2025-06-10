@@ -1,10 +1,10 @@
-# Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures
+# From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is the official repository for the JailFlip attack:
-[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://jailflip.github.io/).
-Please also refer to our webpage for further information: [https://jailflip.github.io/](https://jailflip.github.io/)
+This is the official repository for our work:
+[From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures](https://jailflip.github.io/).  
+Please also refer to our [project webpage](https://jailflip.github.io/) for further information.
 
 <p align="center">
   <img src="images/quadrants.png" width="70%">
@@ -27,6 +27,18 @@ Our proposed JailFlipBench could be categorized into three scenarios: single-mod
 
 ## Citation
 If you find this work useful in your own research, please consider citing our work. 
+
+```bibtex
+@misc{zhou2025jailbreaksrevealingstealthierbroader,
+        title={Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures}, 
+        author={Yukai Zhou and Sibei Yang and Wenjie Wang},
+        year={2025},
+        eprint={2506.07402},
+        archivePrefix={arXiv},
+        primaryClass={cs.CR},
+        url={https://arxiv.org/abs/2506.07402}, 
+  }
+```
 
 ## License
 Our work is licensed under the terms of the MIT license. See LICENSE for more details.
