@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official repository for the llm-as-an-attacker JailFlip attack, which is part of our work: 
-[From Jailbreaks to JailFlip: Revealing Stealthier and Broader Implicit Harm Stemming from LLM Alignment Failures](https://jailflip.github.io/).  
+[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://arxiv.org/abs/2506.07402).  
 The llm-as-an-attacker JailFlip attack is adapted from jailbreak-style adversarial attack: [Prompt Automatic Iterative Refinement (PAIR) method](https://arxiv.org/abs/2310.08419).  
 Please also refer to our [project webpage](https://jailflip.github.io/) for further information.
 
@@ -38,15 +38,12 @@ See `main.py` for all of the supported arguments and descriptions.
 ## Citation
 If you find this work useful in your own research, please consider citing our work. 
 ```bibtex
-@misc{zhou2025jailbreaksrevealingstealthierbroader,
-        title={Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures}, 
-        author={Yukai Zhou and Sibei Yang and Wenjie Wang},
-        year={2025},
-        eprint={2506.07402},
-        archivePrefix={arXiv},
-        primaryClass={cs.CR},
-        url={https://arxiv.org/abs/2506.07402}, 
-  }
+@article{zhou2025beyond,
+  title={Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures},
+  author={Zhou, Yukai and Yang, Sibei and Wang, Wenjie},
+  journal={arXiv preprint arXiv:2506.07402},
+  year={2025}
+}
 ```
 In addition, please also consider citing the `PAIR` work for offering valuable insight.
 
