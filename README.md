@@ -1,6 +1,8 @@
 # Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.07402-yellow.svg)](https://arxiv.org/abs/2506.07402)
+[![🤗 Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/JailFlip/JailFlipBench)
 
 This is the official repository for our work:
 [Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://arxiv.org/abs/2506.07402).  
@@ -23,7 +25,7 @@ Specifically, `llm-as-an-attacker` and `adversarial suffix` attack are adapted f
 
 ## Dataset
 
-Our proposed JailFlipBench could be categorized into three scenarios: single-modal, multi-modal, and factual extension. The intact multi-modal subset and instanced other subsets is included in the `data` folder. The full version of JailFlipBench will be released once our paper is accepted.
+Our proposed JailFlipBench could be categorized into three scenarios: single-modal, multi-modal, and factual extension. The intact multi-modal subset and instanced other subsets is included in the `data` folder and [huggingface](https://huggingface.co/datasets/JailFlip/JailFlipBench). The full version of JailFlipBench will be released once our paper is accepted.
 
 ## Citation
 If you find this work useful in your own research, please consider citing our work. 
